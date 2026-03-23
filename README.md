@@ -1,10 +1,11 @@
 # mcp-serp-intel
 
-[![MCP Server Badge](https://img.shields.io/badge/MCP-Server-blue?style=flat-square)](https://modelcontextprotocol.io)
+> Built by **[Artur Ferreira](https://github.com/arturseo-geo)** @ **[The GEO Lab](https://thegeolab.net)**
+> [𝕏 @TheGEO_Lab](https://x.com/TheGEO_Lab) · [LinkedIn](https://linkedin.com/in/arturgeo) · [Reddit](https://www.reddit.com/user/Alternative_Teach_74/)
 
-**Author:** [Artur Seo](https://github.com/arturseo-geo) | [Twitter](https://twitter.com/stickerdaniel) | [LinkedIn](https://www.linkedin.com/in/artur-seo/) | [Reddit](https://www.reddit.com/r/u_stickerdaniel/)
-
----
+![Version](https://img.shields.io/badge/version-1.0.0-blue)
+![Licence](https://img.shields.io/badge/licence-MIT-green)
+![Claude Code](https://img.shields.io/badge/Claude_Code-MCP_Server-blueviolet)
 
 MCP server for SERP intelligence — weak spots scoring, PAA tree clusters, cross-platform intent comparison, and deep autocomplete expansion.
 
@@ -52,4 +53,41 @@ Get a free Serper API key at [serper.dev](https://serper.dev) (2,500 searches/mo
 
 ---
 
-**Made by [Artur Seo](https://github.com/arturseo-geo)** • [GitHub](https://github.com/arturseo-geo) • [Twitter](https://twitter.com/stickerdaniel) • [LinkedIn](https://www.linkedin.com/in/artur-seo/) • [Reddit](https://www.reddit.com/r/u_stickerdaniel/)
+## Attributions & Licence
+
+Built and maintained by **[Artur Ferreira](https://github.com/arturseo-geo)** @ **[The GEO Lab](https://thegeolab.net)**.
+
+Email: artur@thegeolab.net
+
+### Best Practice Attribution
+
+This MCP server was built following the open source Best Practice Approach —
+reading community work for inspiration, then writing original content,
+and crediting every source.
+
+**Based on:**
+- [Model Context Protocol specification](https://modelcontextprotocol.io) by Anthropic
+- [MCP SDK](https://github.com/modelcontextprotocol/sdk) (MIT)
+
+**SERP analysis concepts inspired by:**
+- [LowFruits](https://lowfruits.io/) — weak SERP spot identification methodology
+- [AlsoAsked](https://alsoasked.com/) — People Also Ask tree mapping
+- [Keyword Surfer](https://surferseo.com/keyword-surfer-extension/) — in-SERP keyword data
+- [Serper.dev](https://serper.dev/) — structured SERP data API
+
+**Data sources:**
+- Serper.dev API — SERP results with AI Overview detection (2,500 free/month)
+- Google Autocomplete API — suggestqueries.google.com (free, unofficial)
+- YouTube Autocomplete API — suggestqueries.google.com?client=youtube (free, unofficial)
+- Bing Autosuggest API — api.bing.com/osjson.aspx (free, no auth)
+
+All server code is original writing. No files were copied or adapted from any source. MIT licence.
+
+---
+
+Found this useful? ⭐ Star the repo and connect:
+[🌐 thegeolab.net](https://thegeolab.net) · [𝕏 @TheGEO_Lab](https://x.com/TheGEO_Lab) · [LinkedIn](https://linkedin.com/in/arturgeo) · [Reddit](https://www.reddit.com/user/Alternative_Teach_74/)
+
+## Licence
+
+MIT — see LICENSE
