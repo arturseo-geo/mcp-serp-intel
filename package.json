@@ -1,0 +1,19 @@
+{
+  "name": "mcp-serp-intel",
+  "version": "1.0.0",
+  "description": "MCP server for SERP intelligence — weak spots, PAA tree, cross-platform intent, deep suggestions",
+  "main": "index.js",
+  "bin": {
+    "mcp-serp-intel": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^0.6.0",
+    "axios": "^1.7.0"
+  },
+  "keywords": ["mcp", "serp", "seo", "keywords", "paa", "intent", "claude-code"],
+  "author": "Artur Ferreira / TheGEOLab.net",
+  "license": "MIT"
+}
