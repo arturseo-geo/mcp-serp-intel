@@ -1,5 +1,11 @@
 # mcp-serp-intel
 
+[![MCP Server Badge](https://img.shields.io/badge/MCP-Server-blue?style=flat-square)](https://modelcontextprotocol.io)
+
+**Author:** [Artur Seo](https://github.com/arturseo-geo) | [Twitter](https://twitter.com/stickerdaniel) | [LinkedIn](https://www.linkedin.com/in/artur-seo/) | [Reddit](https://www.reddit.com/r/u_stickerdaniel/)
+
+---
+
 MCP server for SERP intelligence — weak spots scoring, PAA tree clusters, cross-platform intent comparison, and deep autocomplete expansion.
 
 Replaces LowFruits + AlsoAsked + Keyword Surfer as Claude Code tools.
@@ -44,4 +50,6 @@ Get a free Serper API key at [serper.dev](https://serper.dev) (2,500 searches/mo
 > expand autocomplete suggestions for "link building"
 ```
 
-## By [The GEO Lab](https://thegeolab.net)
+---
+
+**Made by [Artur Seo](https://github.com/arturseo-geo)** • [GitHub](https://github.com/arturseo-geo) • [Twitter](https://twitter.com/stickerdaniel) • [LinkedIn](https://www.linkedin.com/in/artur-seo/) • [Reddit](https://www.reddit.com/r/u_stickerdaniel/)
