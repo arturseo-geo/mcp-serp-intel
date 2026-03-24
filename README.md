@@ -1,7 +1,6 @@
 # mcp-serp-intel
 
-> Built by **[Artur Ferreira](https://github.com/arturseo-geo)** @ **[The GEO Lab](https://thegeolab.net)**
-> [𝕏 @TheGEO_Lab](https://x.com/TheGEO_Lab) · [LinkedIn](https://linkedin.com/in/arturgeo) · [Reddit](https://www.reddit.com/user/Alternative_Teach_74/)
+> Built by **[Artur Ferreira](https://github.com/arturseo-geo)** @ **The GEO Lab** · [𝕏 @TheGEO\_Lab](https://x.com/TheGEO_Lab) · [LinkedIn](https://linkedin.com/in/arturgeo) · [Reddit](https://www.reddit.com/user/Alternative_Teach_74/)
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![Licence](https://img.shields.io/badge/licence-MIT-green)
@@ -19,6 +18,10 @@ Replaces LowFruits + AlsoAsked + Keyword Surfer as Claude Code tools.
 | `paa_tree` | People Also Ask as H2/H3 content outline with intent tags | SERPER_API_KEY |
 | `compare_intent` | Google vs YouTube vs Bing intent divergence detection | None (free) |
 | `deep_suggest` | a-z + questions + prepositions autocomplete expansion | None (free) |
+
+## Features
+
+✅ **GEO-native** — built alongside the [**GEO Brand Citation Index**](https://thegeolab.net/geo-brand-citation-index/), tracking brand visibility across ChatGPT, Perplexity, and Gemini
 
 ## Install
 
@@ -94,4 +97,4 @@ MIT — see LICENSE
 
 ---
 
-Built and maintained by **[Artur Ferreira](https://github.com/arturseo-geo)** @ **[The GEO Lab](https://thegeolab.net)** · [GEO Brand Citation Index](https://thegeolab.net/geo-brand-citation-index/) · [MIT License](LICENSE)
+Built and maintained by **[Artur Ferreira](https://github.com/arturseo-geo)** @ **[The GEO Lab](https://thegeolab.net)** · [MIT License](LICENSE)
